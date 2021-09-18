@@ -26,3 +26,7 @@ Carregamento de componentes apenas quando realmente são necessários, para apli
 ## Virtualização
 
 [https://bvaughn.github.io/react-virtualized/#/components/List](https://bvaughn.github.io/react-virtualized/#/components/List)
+
+## Bundle Analyzer
+
+https://www.npmjs.com/package/webpack-bundle-analyzer
