@@ -17,7 +17,7 @@ Pode ser utilizado o memo também para igualdade referencial (Validação de esp
 
 ## UseCallback
 
-useCallback serve para memorizar uma função, e pode ser utilizada para evitar rerender de componentes pais e filhos
+useCallback serve para memorizar uma função, e pode ser utilizada para evitar rerender de componentes pais e filhos que repassam essas funções
 
 ## Dynamic import (Code Splitting)
 
