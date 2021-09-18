@@ -18,7 +18,6 @@ const Home: NextPage = () => {
     const data = await response.json();
 
     setResults(data);
-    
   }
 
   return (

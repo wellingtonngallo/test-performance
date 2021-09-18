@@ -9,7 +9,7 @@ module.exports = () => {
       price: 80,
       title: `Camiseta ${i + 1}`
     });
-
-    return data;
   }
+
+  return data;
 }
